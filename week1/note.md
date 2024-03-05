@@ -47,6 +47,7 @@ But this class will be bit easier cause these students did not learn anything fr
 
 ## Grade breakdown
 
+<hr/>
 - Midterm: 30%
 - Final: 35%
 - Attendance: 10%
