@@ -22,7 +22,7 @@ Normal flow of the class
 
 - Discreet Math -> data Structure -> algorithm
 
-But this class will be bit easier cause these students did not learn anything from the previous course
+_But this class will be bit easier cause these students did not learn anything from the previous course_
 
 #### Book to be used
 
@@ -47,7 +47,6 @@ But this class will be bit easier cause these students did not learn anything fr
 
 ## Grade breakdown
 
-<hr/>
 - Midterm: 30%
 - Final: 35%
 - Attendance: 10%
