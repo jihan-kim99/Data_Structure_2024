@@ -4,9 +4,7 @@
 
 ### Data Structure - This class is opened by the Not the cs
 
-prof. Lee choonhwa
-
-- phone: 02-2220-1268
+prof. Lee Choonhwa
 
 Data Structure
 
@@ -34,3 +32,22 @@ But this class will be bit easier cause these students did not learn anything fr
 
 - Fundamentals of Data Structure
 - Data Structure in C++
+
+### Class Schedule
+
+- First will learn some easy linear ones like stack, queue
+
+- Exam in week 8 or 9
+
+- Then learn tree, graph, sorting, searching
+
+#### The goal of the class will be Finishing the course
+
+- Twice a week always class
+
+## Grade breakdown
+
+- Midterm: 30%
+- Final: 35%
+- Attendance: 10%
+- Programmig Assignment: 25%
